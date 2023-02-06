@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofikokrtek&label=Profile%20views&color=30a8f3&style=flat-square" alt="ofikokrtek" /> </p>
 
-- 🔭 I’m currently working on [MONDO](https://shinebot.xyz/)
+- 🔭 I’m currently working on ManageME
 
 - 👯 I’m looking to collaborate on **original ideas**
 
