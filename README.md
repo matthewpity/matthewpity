@@ -26,5 +26,5 @@
 <h3 align="left">Support My Work:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/matthewpity" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=matthewpity&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
-  <a href="https://ko-fi.com/matejskoda"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="matejskoda" /></a>
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#607ffa', 'C0C2FWWGP');kofiwidget2.draw();</script> 
 </p>
